@@ -36,4 +36,4 @@
 
     do{
         console.log("Hello Do while");
-    }while(bool);
+    }while(bool); 
